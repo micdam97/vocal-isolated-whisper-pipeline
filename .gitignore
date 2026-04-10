@@ -1,0 +1,17 @@
+# Mengabaikan folder environment
+venv/
+env/
+
+# Mengabaikan folder sampah Python
+__pycache__/
+*.pyc
+
+# Mengabaikan dataset dan file video/audio (agar GitHub tidak penuh)
+*.mp4
+*.mp3
+*.wav
+*.mkv
+dataset.zip
+/output/
+/extracted/
+/vocals/
