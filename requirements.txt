@@ -1,0 +1,5 @@
+openai-whisper
+gdown
+audio-separator[gpu]
+librosa
+matplotlib
